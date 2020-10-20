@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Book",
+    "price": 3,
+    "description": "Cool book about everything"
+  },
+  {
+    "name": "Pen",
+    "price": 0.5,
+    "description": "Pen for writing everything"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "firstName": "Sergey",
+    "lastName": "Kononenko",
+    "age": 20,
+    "history": [{ "disease": "nodejs", "treatment": "mailru" }]
+  },
+  {
+    "firstName": "Pasha",
+    "lastName": "Perestoronin",
+    "age": 20,
+    "history": [{ "disease": "hockey", "treatment": "math" }]
+  },
+  {
+    "firstName": "Lesha",
+    "lastName": "Romanov",
+    "age": 19,
+    "history": [{ "disease": "haskell", "treatment": "none" }]
+  }
+]
